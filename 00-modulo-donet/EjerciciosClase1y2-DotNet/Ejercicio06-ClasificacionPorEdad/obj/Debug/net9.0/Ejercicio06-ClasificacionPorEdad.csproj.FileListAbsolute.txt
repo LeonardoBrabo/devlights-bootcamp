@@ -1,0 +1,14 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\bin\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\bin\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\bin\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\bin\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\bin\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\refint\Ejercicio06-ClasificacionPorEdad.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\Ejercicio06-ClasificacionPorEdad.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio06-ClasificacionPorEdad\obj\Debug\net9.0\ref\Ejercicio06-ClasificacionPorEdad.dll

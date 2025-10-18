@@ -1,0 +1,14 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\bin\Debug\net9.0\Ejercicio04-DescuentoTienda.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\bin\Debug\net9.0\Ejercicio04-DescuentoTienda.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\bin\Debug\net9.0\Ejercicio04-DescuentoTienda.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\bin\Debug\net9.0\Ejercicio04-DescuentoTienda.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\bin\Debug\net9.0\Ejercicio04-DescuentoTienda.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\Ejercicio04-DescuentoTienda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\Ejercicio04-DescuentoTienda.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\Ejercicio04-DescuentoTienda.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\Ejercicio04-DescuentoTienda.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\Ejercicio04-DescuentoTienda.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\refint\Ejercicio04-DescuentoTienda.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\Ejercicio04-DescuentoTienda.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\Ejercicio04-DescuentoTienda.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio04-DescuentoTienda\obj\Debug\net9.0\ref\Ejercicio04-DescuentoTienda.dll

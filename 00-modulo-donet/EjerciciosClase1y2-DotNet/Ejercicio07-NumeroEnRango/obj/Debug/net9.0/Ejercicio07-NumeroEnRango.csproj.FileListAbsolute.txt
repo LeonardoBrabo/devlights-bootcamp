@@ -1,0 +1,14 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\bin\Debug\net9.0\Ejercicio07-NumeroEnRango.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\bin\Debug\net9.0\Ejercicio07-NumeroEnRango.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\bin\Debug\net9.0\Ejercicio07-NumeroEnRango.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\bin\Debug\net9.0\Ejercicio07-NumeroEnRango.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\bin\Debug\net9.0\Ejercicio07-NumeroEnRango.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\Ejercicio07-NumeroEnRango.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\Ejercicio07-NumeroEnRango.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\Ejercicio07-NumeroEnRango.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\Ejercicio07-NumeroEnRango.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\Ejercicio07-NumeroEnRango.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\refint\Ejercicio07-NumeroEnRango.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\Ejercicio07-NumeroEnRango.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\Ejercicio07-NumeroEnRango.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio07-NumeroEnRango\obj\Debug\net9.0\ref\Ejercicio07-NumeroEnRango.dll

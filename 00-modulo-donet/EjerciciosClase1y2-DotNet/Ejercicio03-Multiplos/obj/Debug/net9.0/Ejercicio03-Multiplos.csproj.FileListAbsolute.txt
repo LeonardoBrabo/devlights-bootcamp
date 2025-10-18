@@ -1,0 +1,14 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\bin\Debug\net9.0\Ejercicio03-Multiplos.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\bin\Debug\net9.0\Ejercicio03-Multiplos.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\bin\Debug\net9.0\Ejercicio03-Multiplos.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\bin\Debug\net9.0\Ejercicio03-Multiplos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\bin\Debug\net9.0\Ejercicio03-Multiplos.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\Ejercicio03-Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\Ejercicio03-Multiplos.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\Ejercicio03-Multiplos.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\Ejercicio03-Multiplos.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\Ejercicio03-Multiplos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\refint\Ejercicio03-Multiplos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\Ejercicio03-Multiplos.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\Ejercicio03-Multiplos.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio03-Multiplos\obj\Debug\net9.0\ref\Ejercicio03-Multiplos.dll
