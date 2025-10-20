@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\bin\Debug\net9.0\Ejercicio09-CalculoImpuestos.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\bin\Debug\net9.0\Ejercicio09-CalculoImpuestos.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\bin\Debug\net9.0\Ejercicio09-CalculoImpuestos.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\bin\Debug\net9.0\Ejercicio09-CalculoImpuestos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\bin\Debug\net9.0\Ejercicio09-CalculoImpuestos.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\Ejercicio09-CalculoImpuestos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\Ejercicio09-CalculoImpuestos.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\Ejercicio09-CalculoImpuestos.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\Ejercicio09-CalculoImpuestos.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\Ejercicio09-CalculoImpuestos.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\Ejercicio09-CalculoImpuestos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\refint\Ejercicio09-CalculoImpuestos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\Ejercicio09-CalculoImpuestos.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\Ejercicio09-CalculoImpuestos.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio09-CalculoImpuestos\obj\Debug\net9.0\ref\Ejercicio09-CalculoImpuestos.dll

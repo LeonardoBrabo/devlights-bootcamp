@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\bin\Debug\net9.0\Ejercicio08-ParOImpar.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\bin\Debug\net9.0\Ejercicio08-ParOImpar.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\bin\Debug\net9.0\Ejercicio08-ParOImpar.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\bin\Debug\net9.0\Ejercicio08-ParOImpar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\bin\Debug\net9.0\Ejercicio08-ParOImpar.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\Ejercicio08-ParOImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\Ejercicio08-ParOImpar.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\Ejercicio08-ParOImpar.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\Ejercicio08-ParOImpar.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\Ejercicio08-ParOImpar.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\Ejercicio08-ParOImpar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\refint\Ejercicio08-ParOImpar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\Ejercicio08-ParOImpar.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\Ejercicio08-ParOImpar.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio08-ParOImpar\obj\Debug\net9.0\ref\Ejercicio08-ParOImpar.dll

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio01-NumeroPositivoNegativo", "Ejercicio01-NumeroPositivoNegativo\Ejercicio01-NumeroPositivoNegativo.csproj", "{CF86947B-14D8-4500-A87B-F450A1DC89E2}"
 EndProject
@@ -16,6 +16,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio06-ClasificacionPorEdad", "Ejercicio06-ClasificacionPorEdad\Ejercicio06-ClasificacionPorEdad.csproj", "{C904CED8-C5DE-4DDE-8D89-46234B70CCBB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio07-NumeroEnRango", "Ejercicio07-NumeroEnRango\Ejercicio07-NumeroEnRango.csproj", "{53A887A6-AE31-4895-A6E9-760F9164DFC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio08-ParOImpar", "Ejercicio08-ParOImpar\Ejercicio08-ParOImpar.csproj", "{0DA47F30-7433-48CD-B11C-EFB815DFF8C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio09-CalculoImpuestos", "Ejercicio09-CalculoImpuestos\Ejercicio09-CalculoImpuestos.csproj", "{284E36CD-74C3-4204-AEE6-963C8A43C0C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio10-DiaDeLaSemana", "Ejercicio10-DiaDeLaSemana\Ejercicio10-DiaDeLaSemana.csproj", "{0183DEEA-DECE-4DDB-895B-29E8A989D6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio11-MenuOperaciones", "Ejercicio11-MenuOperaciones\Ejercicio11-MenuOperaciones.csproj", "{85DA7934-73BE-4224-812D-EC434FB10C51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +59,22 @@ Global
 		{53A887A6-AE31-4895-A6E9-760F9164DFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53A887A6-AE31-4895-A6E9-760F9164DFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53A887A6-AE31-4895-A6E9-760F9164DFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA47F30-7433-48CD-B11C-EFB815DFF8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA47F30-7433-48CD-B11C-EFB815DFF8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA47F30-7433-48CD-B11C-EFB815DFF8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA47F30-7433-48CD-B11C-EFB815DFF8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284E36CD-74C3-4204-AEE6-963C8A43C0C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284E36CD-74C3-4204-AEE6-963C8A43C0C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284E36CD-74C3-4204-AEE6-963C8A43C0C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284E36CD-74C3-4204-AEE6-963C8A43C0C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0183DEEA-DECE-4DDB-895B-29E8A989D6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0183DEEA-DECE-4DDB-895B-29E8A989D6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0183DEEA-DECE-4DDB-895B-29E8A989D6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0183DEEA-DECE-4DDB-895B-29E8A989D6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85DA7934-73BE-4224-812D-EC434FB10C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DA7934-73BE-4224-812D-EC434FB10C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DA7934-73BE-4224-812D-EC434FB10C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DA7934-73BE-4224-812D-EC434FB10C51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
