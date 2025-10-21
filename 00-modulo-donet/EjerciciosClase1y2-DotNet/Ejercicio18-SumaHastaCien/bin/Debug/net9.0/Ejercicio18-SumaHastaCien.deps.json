@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ejercicio18-SumaHastaCien/1.0.0": {
+        "runtime": {
+          "Ejercicio18-SumaHastaCien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio18-SumaHastaCien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\bin\Debug\net9.0\Ejercicio13-SumaImpares.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\bin\Debug\net9.0\Ejercicio13-SumaImpares.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\bin\Debug\net9.0\Ejercicio13-SumaImpares.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\bin\Debug\net9.0\Ejercicio13-SumaImpares.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\bin\Debug\net9.0\Ejercicio13-SumaImpares.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\Ejercicio13-SumaImpares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\Ejercicio13-SumaImpares.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\Ejercicio13-SumaImpares.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\Ejercicio13-SumaImpares.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\Ejercicio13-SumaImpares.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\Ejercicio13-SumaImpares.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\refint\Ejercicio13-SumaImpares.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\Ejercicio13-SumaImpares.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\Ejercicio13-SumaImpares.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio13-SumaImpares\obj\Debug\net9.0\ref\Ejercicio13-SumaImpares.dll

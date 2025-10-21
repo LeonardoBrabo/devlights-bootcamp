@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\bin\Debug\net9.0\Ejercicio12-ContadorDePares.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\bin\Debug\net9.0\Ejercicio12-ContadorDePares.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\bin\Debug\net9.0\Ejercicio12-ContadorDePares.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\bin\Debug\net9.0\Ejercicio12-ContadorDePares.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\bin\Debug\net9.0\Ejercicio12-ContadorDePares.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\Ejercicio12-ContadorDePares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\Ejercicio12-ContadorDePares.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\Ejercicio12-ContadorDePares.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\Ejercicio12-ContadorDePares.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\Ejercicio12-ContadorDePares.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\Ejercicio12-ContadorDePares.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\refint\Ejercicio12-ContadorDePares.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\Ejercicio12-ContadorDePares.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\Ejercicio12-ContadorDePares.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio12-ContadorDePares\obj\Debug\net9.0\ref\Ejercicio12-ContadorDePares.dll

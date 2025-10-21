@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio09-CalculoImpuestos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84a9d4b20642af127bbf1c332cf5ce69188bb77e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313773e37efb396182ac5072f0eef80c032ebcd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio09-CalculoImpuestos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio09-CalculoImpuestos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

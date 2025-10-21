@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\bin\Debug\net9.0\Ejercicio20-ContarVocales.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\bin\Debug\net9.0\Ejercicio20-ContarVocales.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\bin\Debug\net9.0\Ejercicio20-ContarVocales.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\bin\Debug\net9.0\Ejercicio20-ContarVocales.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\bin\Debug\net9.0\Ejercicio20-ContarVocales.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\Ejercicio20-ContarVocales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\Ejercicio20-ContarVocales.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\Ejercicio20-ContarVocales.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\Ejercicio20-ContarVocales.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\Ejercicio20-ContarVocales.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\Ejercicio20-ContarVocales.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\refint\Ejercicio20-ContarVocales.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\Ejercicio20-ContarVocales.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\Ejercicio20-ContarVocales.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio20-ContarVocales\obj\Debug\net9.0\ref\Ejercicio20-ContarVocales.dll

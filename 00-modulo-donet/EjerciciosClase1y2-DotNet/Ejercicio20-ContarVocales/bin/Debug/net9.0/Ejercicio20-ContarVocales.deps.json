@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ejercicio20-ContarVocales/1.0.0": {
+        "runtime": {
+          "Ejercicio20-ContarVocales.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio20-ContarVocales/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

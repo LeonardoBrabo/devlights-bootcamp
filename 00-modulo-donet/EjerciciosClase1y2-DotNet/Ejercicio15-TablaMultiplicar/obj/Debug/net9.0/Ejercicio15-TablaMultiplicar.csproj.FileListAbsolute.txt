@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\bin\Debug\net9.0\Ejercicio15-TablaMultiplicar.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\bin\Debug\net9.0\Ejercicio15-TablaMultiplicar.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\bin\Debug\net9.0\Ejercicio15-TablaMultiplicar.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\bin\Debug\net9.0\Ejercicio15-TablaMultiplicar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\bin\Debug\net9.0\Ejercicio15-TablaMultiplicar.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\Ejercicio15-TablaMultiplicar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\Ejercicio15-TablaMultiplicar.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\Ejercicio15-TablaMultiplicar.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\Ejercicio15-TablaMultiplicar.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\Ejercicio15-TablaMultiplicar.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\Ejercicio15-TablaMultiplicar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\refint\Ejercicio15-TablaMultiplicar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\Ejercicio15-TablaMultiplicar.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\Ejercicio15-TablaMultiplicar.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio15-TablaMultiplicar\obj\Debug\net9.0\ref\Ejercicio15-TablaMultiplicar.dll

@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\bin\Debug\net9.0\Ejercicio16-PromedioNotas.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\bin\Debug\net9.0\Ejercicio16-PromedioNotas.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\bin\Debug\net9.0\Ejercicio16-PromedioNotas.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\bin\Debug\net9.0\Ejercicio16-PromedioNotas.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\bin\Debug\net9.0\Ejercicio16-PromedioNotas.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\Ejercicio16-PromedioNotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\Ejercicio16-PromedioNotas.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\Ejercicio16-PromedioNotas.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\Ejercicio16-PromedioNotas.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\Ejercicio16-PromedioNotas.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\Ejercicio16-PromedioNotas.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\refint\Ejercicio16-PromedioNotas.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\Ejercicio16-PromedioNotas.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\Ejercicio16-PromedioNotas.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio16-PromedioNotas\obj\Debug\net9.0\ref\Ejercicio16-PromedioNotas.dll

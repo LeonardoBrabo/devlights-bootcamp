@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\bin\Debug\net9.0\Ejercicio11-MenuOperaciones.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\bin\Debug\net9.0\Ejercicio11-MenuOperaciones.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\bin\Debug\net9.0\Ejercicio11-MenuOperaciones.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\bin\Debug\net9.0\Ejercicio11-MenuOperaciones.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\bin\Debug\net9.0\Ejercicio11-MenuOperaciones.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\Ejercicio11-MenuOperaciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\Ejercicio11-MenuOperaciones.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\Ejercicio11-MenuOperaciones.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\Ejercicio11-MenuOperaciones.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\Ejercicio11-MenuOperaciones.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\Ejercicio11-MenuOperaciones.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\refint\Ejercicio11-MenuOperaciones.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\Ejercicio11-MenuOperaciones.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\Ejercicio11-MenuOperaciones.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio11-MenuOperaciones\obj\Debug\net9.0\ref\Ejercicio11-MenuOperaciones.dll

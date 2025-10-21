@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\bin\Debug\net9.0\Ejercicio17-ContadorHastaCero.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\bin\Debug\net9.0\Ejercicio17-ContadorHastaCero.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\bin\Debug\net9.0\Ejercicio17-ContadorHastaCero.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\bin\Debug\net9.0\Ejercicio17-ContadorHastaCero.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\bin\Debug\net9.0\Ejercicio17-ContadorHastaCero.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\Ejercicio17-ContadorHastaCero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\Ejercicio17-ContadorHastaCero.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\Ejercicio17-ContadorHastaCero.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\Ejercicio17-ContadorHastaCero.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\Ejercicio17-ContadorHastaCero.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\Ejercicio17-ContadorHastaCero.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\refint\Ejercicio17-ContadorHastaCero.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\Ejercicio17-ContadorHastaCero.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\Ejercicio17-ContadorHastaCero.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio17-ContadorHastaCero\obj\Debug\net9.0\ref\Ejercicio17-ContadorHastaCero.dll

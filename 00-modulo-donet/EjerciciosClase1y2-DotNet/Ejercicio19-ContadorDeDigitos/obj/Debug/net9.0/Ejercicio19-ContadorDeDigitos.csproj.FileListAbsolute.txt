@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\bin\Debug\net9.0\Ejercicio19-ContadorDeDigitos.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\bin\Debug\net9.0\Ejercicio19-ContadorDeDigitos.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\bin\Debug\net9.0\Ejercicio19-ContadorDeDigitos.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\bin\Debug\net9.0\Ejercicio19-ContadorDeDigitos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\bin\Debug\net9.0\Ejercicio19-ContadorDeDigitos.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\Ejercicio19-ContadorDeDigitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\Ejercicio19-ContadorDeDigitos.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\Ejercicio19-ContadorDeDigitos.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\Ejercicio19-ContadorDeDigitos.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\Ejercicio19-ContadorDeDigitos.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\Ejercicio19-ContadorDeDigitos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\refint\Ejercicio19-ContadorDeDigitos.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\Ejercicio19-ContadorDeDigitos.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\Ejercicio19-ContadorDeDigitos.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase1y2-DotNet\Ejercicio19-ContadorDeDigitos\obj\Debug\net9.0\ref\Ejercicio19-ContadorDeDigitos.dll
