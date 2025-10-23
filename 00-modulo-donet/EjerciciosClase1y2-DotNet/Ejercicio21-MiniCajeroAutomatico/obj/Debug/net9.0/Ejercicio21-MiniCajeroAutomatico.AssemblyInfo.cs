@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio21-MiniCajeroAutomatico")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313773e37efb396182ac5072f0eef80c032ebcd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ba20368055ab49aeb43b39cf3ff7b7a8748fe89")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio21-MiniCajeroAutomatico")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio21-MiniCajeroAutomatico")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
