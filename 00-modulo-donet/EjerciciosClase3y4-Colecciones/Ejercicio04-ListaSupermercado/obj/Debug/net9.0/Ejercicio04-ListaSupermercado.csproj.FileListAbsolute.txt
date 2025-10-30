@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\bin\Debug\net9.0\Ejercicio04-ListaSupermercado.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\bin\Debug\net9.0\Ejercicio04-ListaSupermercado.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\bin\Debug\net9.0\Ejercicio04-ListaSupermercado.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\bin\Debug\net9.0\Ejercicio04-ListaSupermercado.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\bin\Debug\net9.0\Ejercicio04-ListaSupermercado.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\Ejercicio04-ListaSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\Ejercicio04-ListaSupermercado.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\Ejercicio04-ListaSupermercado.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\Ejercicio04-ListaSupermercado.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\Ejercicio04-ListaSupermercado.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\Ejercicio04-ListaSupermercado.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\refint\Ejercicio04-ListaSupermercado.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\Ejercicio04-ListaSupermercado.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\Ejercicio04-ListaSupermercado.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio04-ListaSupermercado\obj\Debug\net9.0\ref\Ejercicio04-ListaSupermercado.dll

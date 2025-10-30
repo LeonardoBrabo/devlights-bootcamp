@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\bin\Debug\net9.0\Ejercicio02-MayoresDeEdad.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\bin\Debug\net9.0\Ejercicio02-MayoresDeEdad.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\bin\Debug\net9.0\Ejercicio02-MayoresDeEdad.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\bin\Debug\net9.0\Ejercicio02-MayoresDeEdad.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\bin\Debug\net9.0\Ejercicio02-MayoresDeEdad.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\Ejercicio02-MayoresDeEdad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\Ejercicio02-MayoresDeEdad.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\Ejercicio02-MayoresDeEdad.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\Ejercicio02-MayoresDeEdad.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\Ejercicio02-MayoresDeEdad.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\Ejercicio02-MayoresDeEdad.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\refint\Ejercicio02-MayoresDeEdad.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\Ejercicio02-MayoresDeEdad.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\Ejercicio02-MayoresDeEdad.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio02-MayoresDeEdad\obj\Debug\net9.0\ref\Ejercicio02-MayoresDeEdad.dll
