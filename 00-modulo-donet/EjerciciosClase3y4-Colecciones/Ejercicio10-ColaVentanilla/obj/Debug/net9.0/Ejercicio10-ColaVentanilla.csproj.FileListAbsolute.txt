@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\bin\Debug\net9.0\Ejercicio10-ColaVentanilla.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\bin\Debug\net9.0\Ejercicio10-ColaVentanilla.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\bin\Debug\net9.0\Ejercicio10-ColaVentanilla.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\bin\Debug\net9.0\Ejercicio10-ColaVentanilla.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\bin\Debug\net9.0\Ejercicio10-ColaVentanilla.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\Ejercicio10-ColaVentanilla.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\Ejercicio10-ColaVentanilla.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\Ejercicio10-ColaVentanilla.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\Ejercicio10-ColaVentanilla.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\Ejercicio10-ColaVentanilla.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\Ejercicio10-ColaVentanilla.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\refint\Ejercicio10-ColaVentanilla.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\Ejercicio10-ColaVentanilla.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\Ejercicio10-ColaVentanilla.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio10-ColaVentanilla\obj\Debug\net9.0\ref\Ejercicio10-ColaVentanilla.dll

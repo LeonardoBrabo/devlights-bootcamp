@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\Ejercicio05-MatrizParImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\Ejercicio05-MatrizParImpar.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\Ejercicio05-MatrizParImpar.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\Ejercicio05-MatrizParImpar.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\Ejercicio05-MatrizParImpar.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\bin\Debug\net9.0\Ejercicio05-MatrizParImpar.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\bin\Debug\net9.0\Ejercicio05-MatrizParImpar.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\bin\Debug\net9.0\Ejercicio05-MatrizParImpar.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\bin\Debug\net9.0\Ejercicio05-MatrizParImpar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\bin\Debug\net9.0\Ejercicio05-MatrizParImpar.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\Ejercicio05-MatrizParImpar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\refint\Ejercicio05-MatrizParImpar.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\Ejercicio05-MatrizParImpar.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\Ejercicio05-MatrizParImpar.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio05-MatrizParImpar\obj\Debug\net9.0\ref\Ejercicio05-MatrizParImpar.dll

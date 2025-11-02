@@ -1,0 +1,15 @@
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\Ejercicio09-DiccionarioCalif.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\Ejercicio09-DiccionarioCalif.AssemblyInfoInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\Ejercicio09-DiccionarioCalif.AssemblyInfo.cs
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\Ejercicio09-DiccionarioCalif.csproj.CoreCompileInputs.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\Ejercicio09-DiccionarioCalif.sourcelink.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\bin\Debug\net9.0\Ejercicio09-DiccionarioCalif.exe
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\bin\Debug\net9.0\Ejercicio09-DiccionarioCalif.deps.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\bin\Debug\net9.0\Ejercicio09-DiccionarioCalif.runtimeconfig.json
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\bin\Debug\net9.0\Ejercicio09-DiccionarioCalif.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\bin\Debug\net9.0\Ejercicio09-DiccionarioCalif.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\Ejercicio09-DiccionarioCalif.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\refint\Ejercicio09-DiccionarioCalif.dll
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\Ejercicio09-DiccionarioCalif.pdb
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\Ejercicio09-DiccionarioCalif.genruntimeconfig.cache
+D:\Mis Cosas Estudio\Documents\@-Codigos\@-EnGithub\devlights-bootcamp\00-modulo-donet\EjerciciosClase3y4-Colecciones\Ejercicio09-DiccionarioCalif\obj\Debug\net9.0\ref\Ejercicio09-DiccionarioCalif.dll
